@@ -15,7 +15,7 @@ developing all the time.
 * CSS
 * JavaScript
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mroku99&hide=java,html,css&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mroku99&theme=dark)
 
 
 ## <img src="https://cdn-icons.flaticon.com/png/512/2953/premium/2953627.png?token=exp=1657547724~hmac=25c3f35197d43a32ab502ee12ae274a8" width="25px" height="25px">   Roadmap
@@ -32,7 +32,7 @@ developing all the time.
 
 
 ## <img src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1657548026~hmac=1aae47400cbaf4be9b79b6120c98ff61" width="25px" height="25px">  Github Stats
-![Logo](https://github-readme-stats.vercel.app/api?username=Mroku99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Logo](https://github-readme-stats.vercel.app/api?username=Mroku99&theme=dark&show_icons=true)
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1085/1085409.png" width="25px" height="25px">  Tech Stack
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="60px" height="60px"></a>
