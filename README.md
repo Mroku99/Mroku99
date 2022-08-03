@@ -8,6 +8,22 @@ Full Stack Data Scientist, because this area is very interesting and
 developing all the time. 
 
 
+## <img src="https://cdn-icons-png.flaticon.com/512/4901/4901662.png" width="25px" height="25px"> Projects
+* Data Science:
+  * BigMark Sales Prediction
+  * Zomato Rating Prediction
+  * Uber Data Analysis
+* Django:
+  * Python Shop
+  * Travel Blog
+  * To Do List
+* Python Automation:
+  * History Quiz
+* React:
+  * My Travel
+  * Show Case
+
+
 ## 🛠 Skills
 * Python
 * SQL
@@ -18,20 +34,20 @@ developing all the time.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mroku99&theme=dark)
 
 
-## <img src="https://cdn-icons.flaticon.com/png/512/2953/premium/2953627.png?token=exp=1657547724~hmac=25c3f35197d43a32ab502ee12ae274a8" width="25px" height="25px">   Roadmap
+## <img src="https://cdn0.iconfinder.com/data/icons/maps-locations-7/24/map_location_treasure_map_position_pirate-512.png" width="25px" height="25px">   Roadmap
 
 - [x] Python
 - [x] SQL
 - [x] Statistics
 - [ ] AI
-  - [ ] Machine Learning
+  - [x] Machine Learning
     - [ ] Deep Learning
       - [ ] Computer Vision
       - [ ] Natural Language Processing
 
 
 
-## <img src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1657548026~hmac=1aae47400cbaf4be9b79b6120c98ff61" width="25px" height="25px">  Github Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/4252/4252963.png" width="25px" height="25px">  Github Stats
 ![Logo](https://github-readme-stats.vercel.app/api?username=Mroku99&theme=dark&show_icons=true)
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1085/1085409.png" width="25px" height="25px">  Tech Stack
