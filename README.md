@@ -10,6 +10,7 @@ developing all the time.
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/4901/4901662.png" width="25px" height="25px"> Projects
 * Data Science:
+  * Predicting Concrete Compressive Strength
   * BigMark Sales Prediction
   * Zomato Rating Prediction
   * Uber Data Analysis
