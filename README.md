@@ -40,11 +40,11 @@ developing all the time.
 - [x] Python
 - [x] SQL
 - [x] Statistics
-- [ ] AI
+- [x] AI
   - [x] Machine Learning
-    - [ ] Deep Learning
-      - [ ] Computer Vision
-      - [ ] Natural Language Processing
+    - [x] Deep Learning
+      - [x] Computer Vision
+      - [x] Natural Language Processing
 
 
 
